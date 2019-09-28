@@ -1,0 +1,1 @@
+find . -name '*[A-Z]*' -type f -exec bash -c 'echo "{}" | mv "{}" "$(tr A-Z a-z)"' \;
