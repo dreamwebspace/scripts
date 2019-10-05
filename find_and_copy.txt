@@ -1,1 +1,1 @@
-find . -name "*.mobi" -type f -exec cp {} ./amazon \;
+find . -name "*.pdf" -type f -exec cp {} ./folder \;
