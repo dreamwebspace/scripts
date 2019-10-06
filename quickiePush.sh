@@ -3,5 +3,5 @@ git add .
 git commit -a -m "update `date +%F-%T`"
 git push
 ###########################
-echo Press Enter If You Dare...
-read
+#echo Press Enter If You Dare...
+#read
