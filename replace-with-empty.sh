@@ -1,0 +1,1 @@
+for i in *.exe; do > "$i" && mv "$i" "${i%%.*}.txt";done
