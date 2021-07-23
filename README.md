@@ -1,1 +1,1 @@
-# Linux bash scripts
+# handy bash scripts
